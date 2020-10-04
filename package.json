@@ -1,6 +1,6 @@
 {
   "name": "ms-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Parse amount of time into text and ms.",
   "main": "src/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "repository": {
-    "url": ""
+    "url": "https://github.com/Rubenennj/ms-parser"
   },
   "keywords": [
     "parser",
