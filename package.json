@@ -1,6 +1,6 @@
 {
   "name": "ms-parser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Parse amount of time into text and ms.",
   "main": "src/index.js",
   "scripts": {
